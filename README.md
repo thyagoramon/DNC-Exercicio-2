@@ -2,7 +2,9 @@
 
 Projeto front-end desenvolvido como exercício da formação de front-end da Escola DNC.
 
-[Clique aqui para visualizar a página](https://thyagoramon.github.io/DNC-Exercicio-2/)
+[Deploy da página no GitHub Pages](https://thyagoramon.github.io/DNC-Exercicio-2/)
+
+[Planilha com os dados cadastrados no formulário](https://docs.google.com/spreadsheets/d/1DUPEiwvePjCkGFi4W7eQvy1UuPEpszxKpD6GPvUWY54/edit?usp=sharing)
 
 ## Funcionalidades da página:
 - Responsividade em diferentes tamanhos de tela.
